@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bluetooth search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="swapThemeButton">Swap theme</string>
+    <string name="location_settings_inadequate">Location settings are inadequate,
+		and cannot be fixed here. Fix in Settings</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+		functionality.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_blue_locations">Map</string>
+
+
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+
+</resources>
